@@ -1,0 +1,17 @@
+body{
+    background: rgb(197, 190, 190); ;
+}
+#title{
+    color: rgb(76, 100, 100);
+}
+
+.title-post{
+
+}
+.title-art{
+
+}
+.post{
+    background: rgb(186, 227, 246);
+    list-style-image: ;
+}
